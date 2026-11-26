@@ -1,0 +1,1 @@
+Place the approved Kiwimbi Library / Ateker Nu Trust logo at assets/logo.png. Do not use an unapproved logo.
